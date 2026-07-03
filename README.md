@@ -7,6 +7,7 @@ I value craftsmanship over shortcuts, architecture over quick fixes, and long-te
 ## 🚀 Featured Projects
 ### TradeSlot
 A modern marketplace connecting skilled trades professionals with customers through a polished native Apple experience.
+
 **Focus**
 - Native Apple development
 - SwiftUI
@@ -15,6 +16,7 @@ A modern marketplace connecting skilled trades professionals with customers thro
 ---
 ### Political Career Simulator
 A deep political simulation where every decision influences an evolving career spanning campaigns, legislation, media, elections, and public perception.
+
 **Focus**
 - Complex systems design
 - Long-term architecture
@@ -41,14 +43,17 @@ Good engineering doesn't.
 - Continuously improving my craft
 ---
 ## 🛠️ Technologies
+
 **Languages**
 - Swift
 - TypeScript
 - JavaScript
+
 **Frameworks & Platforms**
 - SwiftUI
 - React
 - Supabase
+
 **Tools**
 - Git
 - GitHub
@@ -56,6 +61,7 @@ Good engineering doesn't.
 - Visual Studio Code
 ---
 ## 🤝 Open Source
+
 I'm actively expanding my open-source contributions while building software that reflects the same standards I expect from the tools I use every day.
 ---
 > *"Quality is never an accident. It is always the result of thoughtful effort."*
