@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm David Taylor 👋
 
-<!--
-**davidtaylorjr/davidtaylorjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer focused on building thoughtful, well-architected applications that solve real problems.
 
-Here are some ideas to get you started:
+## 🚀 Current Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### TradeSlot
+A native SwiftUI application connecting skilled trades professionals with customers.
+
+### Political Career Simulator
+A deep political simulation game modeling elections, legislation, campaigns, media, and long-term career progression.
+
+## 🛠️ Technologies
+
+- Swift & SwiftUI
+- React
+- TypeScript
+- Supabase
+- Git & GitHub
+
+## 🌱 Currently Learning
+
+- Agentic software development workflows
+- Native Apple development
+- Software architecture
+- Open source contribution
+
+## 📫 Connect
+
+- Portfolio *(coming soon)*
+- LinkedIn *(coming soon)*
