@@ -1,78 +1,61 @@
 # Hi, I'm David Taylor 👋
-
-I'm a software engineer focused on designing and building software that solves complex problems. My passion is creating products that are thoughtfully architected, maintainable, and enjoyable to use.
-
-I believe great software starts with understanding the problem, designing the right solution, and executing it with discipline. Whether I'm building native Apple applications, modern web platforms, or contributing to open source, my goal is to create software that stands the test of time.
-
+> *Building software that solves real problems through thoughtful engineering and exceptional user experiences.*
+I believe software should do more than work—it should feel intuitive, purposeful, and enjoyable to use.
+My passion is designing products that people genuinely enjoy interacting with. Every project is an opportunity to simplify complexity, create elegant solutions, and build software that earns the user's trust through quality, reliability, and attention to detail.
+I value craftsmanship over shortcuts, architecture over quick fixes, and long-term maintainability over temporary solutions.
 ---
-
 ## 🚀 Featured Projects
-
 ### TradeSlot
-
-A native SwiftUI marketplace connecting skilled trades professionals with customers through a fast, modern experience.
-
-**Current Focus**
-
+A modern marketplace connecting skilled trades professionals with customers through a polished native Apple experience.
+**Focus**
 - Native Apple development
 - SwiftUI
-- Supabase
-- Scalable product architecture
-
+- Product architecture
+- User experience
 ---
-
 ### Political Career Simulator
-
-A deep political simulation modeling campaigns, legislatures, elections, media, and long-term political careers where every decision has lasting consequences.
-
-**Current Focus**
-
-- Complex simulation systems
+A deep political simulation where every decision influences an evolving career spanning campaigns, legislation, media, elections, and public perception.
+**Focus**
+- Complex systems design
 - Long-term architecture
-- Agentic software engineering workflows
-- React and modern JavaScript
-
+- Simulation engineering
+- Modern web technologies
 ---
-
-## 🌍 Open Source
-
-I'm actively expanding my open-source contributions while building production-quality software. I enjoy collaborating on real-world projects, improving developer tools, and continuously refining my engineering practices.
-
+## 💡 Engineering Philosophy
+I strive to build software that is:
+- Thoughtfully designed
+- Elegant without unnecessary complexity
+- Reliable and thoroughly tested
+- Maintainable for years—not months
+- Focused on solving meaningful problems
+- A pleasure to use
+Technology changes.
+Good engineering doesn't.
 ---
-
-## 🎯 Current Focus
-
+## 🌍 What I'm Working On
 - Building production-quality software products
 - Native Apple development with SwiftUI
 - Modern web applications
 - Agentic software engineering workflows
-- Software architecture and system design
 - Open-source collaboration
-
+- Continuously improving my craft
 ---
-
 ## 🛠️ Technologies
-
+**Languages**
 - Swift
-- SwiftUI
-- React
 - TypeScript
 - JavaScript
+**Frameworks & Platforms**
+- SwiftUI
+- React
 - Supabase
-- Git & GitHub
-
+**Tools**
+- Git
+- GitHub
+- Xcode
+- Visual Studio Code
 ---
-
-## 💡 Engineering Philosophy
-
-I believe software should be:
-
-- Thoughtfully designed
-- Easy to understand
-- Maintainable over the long term
-- Built to solve real problems
-- Focused on delivering an excellent user experience
-
+## 🤝 Open Source
+I'm actively expanding my open-source contributions while building software that reflects the same standards I expect from the tools I use every day.
 ---
-
-Thanks for stopping by! I'm always learning, always building, and always looking for better ways to solve difficult problems with software.
+> *"Quality is never an accident. It is always the result of thoughtful effort."*
