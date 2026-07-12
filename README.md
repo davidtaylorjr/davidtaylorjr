@@ -1,121 +1,143 @@
-```md
-# David Taylor
+# Hi, I'm David Taylor
 
-> **Building software that solves real problems through thoughtful engineering and exceptional user experiences.**
+> **Building thoughtful software that solves complex problems and creates exceptional experiences.**
 
----
+I am a software engineer, product builder, and founder of **Taylor Creative Development**.
 
-## Engineering Philosophy
+I believe great software should do more than function correctly. It should feel intentional, intuitive, reliable, and genuinely enjoyable to use.
 
-I believe great software is more than functional.
+My work begins with understanding the problem, defining a clear product vision, and designing the right system before implementation begins. I care about the full experience—from architecture and maintainability to the smallest details a user sees and feels.
 
-It should be intuitive.
+## What Drives My Work
 
-It should be reliable.
+I build software around three core ideas:
 
-It should be thoughtfully engineered.
+### Thoughtful Engineering
 
-It should earn a user's trust through quality, consistency, and attention to detail.
+Strong products require clear requirements, deliberate architecture, maintainable code, meaningful testing, and disciplined execution.
 
-Every project I build is driven by the same goal:
+### Exceptional Experiences
 
-> **Create software people genuinely enjoy using while solving meaningful problems with elegant, maintainable solutions.**
+Software should not merely expose features. It should guide users naturally, reduce friction, and make difficult tasks feel simple.
 
----
+### Meaningful Problems
 
-## What I'm Building
+The best technology serves a real purpose. I am most interested in products that improve an existing experience, solve an overlooked problem, or make something possible that was previously too complicated.
 
-### TradeSlot
+## Current Work
 
-A modern marketplace connecting skilled trades professionals with customers through a polished native experience.
+### Apple Music Experience
 
-**Current Focus**
+An Apple-first music platform designed to bring playback, library management, trustworthy listening history, analytics, rediscovery, and deeper personalization into one cohesive experience.
 
-- Product architecture
-- Native Apple development
-- SwiftUI
-- User experience
-- Scalable backend design
-
----
+Current work includes technical feasibility research involving MusicKit, listening capture, historical data, synchronization, and native Apple-platform integration.
 
 ### Political Career Simulator
 
-A living political simulation where every decision shapes an evolving career through elections, legislation, media, and public opinion.
+A living political simulation built around campaigns, elections, governing, legislation, media, public opinion, and long-term career consequences.
 
-**Current Focus**
+The project explores complex simulation systems, persistent world state, emergent storytelling, and responsible use of generative AI.
 
-- Systems thinking
-- Complex simulation design
-- Long-term architecture
-- AI-assisted engineering workflow
+### My GameDay
 
----
+A sports companion concept focused on helping fans discover meaningful public conversations, understand game context, and follow the broader experience surrounding the teams and events they care about.
+
+### Scripture Memory
+
+A focused native application for adding, reviewing, practicing, and memorizing Scripture while developing the complete application-delivery workflow from local development through testing and release.
+
+## Taylor Creative Development
+
+Taylor Creative Development is not tied to one operating system, framework, or device category.
+
+The goal is to build high-quality software wherever the product belongs, including:
+
+* Native Apple applications
+* Web applications
+* Windows applications
+* Android applications
+* Cloud-backed platforms
+* Shared packages and developer tools
+* AI-enhanced and agentic systems
+
+Technology choices should follow the needs of the product rather than define the product.
+
+## How I Build
+
+My development process separates product decisions from implementation.
+
+I serve as the product visionary, product planner, and final decision-maker for my projects. I use structured collaboration with engineering strategy, architecture, implementation, review, testing, and documentation roles to move ideas from concept to dependable software.
+
+Agentic development is part of that workflow, but it does not replace engineering judgment. Agents help research, plan, implement, test, and review work within clearly defined responsibilities and human-approved direction.
 
 ## Engineering Principles
 
 I strive to build software that is:
 
-- Thoughtfully designed
-- Elegant without unnecessary complexity
-- Maintainable for years—not months
-- Thoroughly tested
-- Focused on solving real problems
-- A joy to use
+* Purposeful
+* Intuitive
+* Carefully architected
+* Maintainable over the long term
+* Tested according to its risks
+* Honest about uncertainty and limitations
+* Respectful of user privacy and trust
+* Polished enough to be enjoyed, not merely tolerated
 
-Technology evolves.
+I value forward progress, but I do not believe speed excuses careless engineering.
 
-Thoughtful engineering endures.
+The goal is not perfection before release. The goal is to ship work worth trusting and continue making it better.
 
----
+## Areas of Focus
 
-## Current Areas of Focus
-
-- Native Apple Development
-- Modern Web Applications
-- Product Architecture
-- Agentic Software Engineering
-- Open Source Collaboration
-- Continuous Learning
-
----
+* Product strategy and discovery
+* Software architecture and systems design
+* Native application development
+* Modern web development
+* Cloud services and data platforms
+* Simulation systems
+* Agentic software development
+* Artificial intelligence used with clear purpose
+* Testing, quality assurance, and release discipline
+* Open-source software and reusable packages
 
 ## Technologies
 
-### Languages
+My technology stack continues to grow according to the needs of each product.
 
-- Swift
-- TypeScript
-- JavaScript
+### Languages and Frameworks
 
-### Frameworks
+* Swift
+* SwiftUI
+* JavaScript
+* TypeScript
+* React
 
-- SwiftUI
-- React
-- Supabase
+### Platforms and Services
 
-### Tools
+* Apple development platforms
+* Supabase
+* GitHub
+* Cloud services
+* Web platforms
 
-- Git
-- GitHub
-- Xcode
-- Visual Studio Code
+### Development Tools
 
----
+* Xcode
+* Visual Studio Code
+* Git
+* GitHub
+* Agentic coding tools
 
 ## Open Source
 
-I'm committed to contributing to open source while building production-quality software that reflects the same standards I expect from the tools I use every day.
+I am interested in contributing useful fixes, documentation, packages, and developer tools to the wider software community.
 
----
+Public work should provide genuine value—not exist merely to fill a contribution graph.
 
-## Beyond the Code
+## The Standard
 
-I don't just enjoy writing software.
+I want the software I build to reflect craftsmanship.
 
-I enjoy designing systems, refining experiences, simplifying complexity, and building products that stand the test of time.
+That means solving real problems, thinking beyond the obvious implementation, testing what matters, refining the experience, and delivering something people can trust.
 
-Software is more than code.
-
-It's craftsmanship.
-```
+**Thoughtful engineering. Exceptional experiences. Meaningful software.**
