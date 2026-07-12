@@ -1,67 +1,121 @@
-# Hi, I'm David Taylor 👋
-> *Building software that solves real problems through thoughtful engineering and exceptional user experiences.*
-I believe software should do more than work—it should feel intuitive, purposeful, and enjoyable to use.
-My passion is designing products that people genuinely enjoy interacting with. Every project is an opportunity to simplify complexity, create elegant solutions, and build software that earns the user's trust through quality, reliability, and attention to detail.
-I value craftsmanship over shortcuts, architecture over quick fixes, and long-term maintainability over temporary solutions.
----
-## 🚀 Featured Projects
-### TradeSlot
-A modern marketplace connecting skilled trades professionals with customers through a polished native Apple experience.
+```md
+# David Taylor
 
-**Focus**
+> **Building software that solves real problems through thoughtful engineering and exceptional user experiences.**
+
+---
+
+## Engineering Philosophy
+
+I believe great software is more than functional.
+
+It should be intuitive.
+
+It should be reliable.
+
+It should be thoughtfully engineered.
+
+It should earn a user's trust through quality, consistency, and attention to detail.
+
+Every project I build is driven by the same goal:
+
+> **Create software people genuinely enjoy using while solving meaningful problems with elegant, maintainable solutions.**
+
+---
+
+## What I'm Building
+
+### TradeSlot
+
+A modern marketplace connecting skilled trades professionals with customers through a polished native experience.
+
+**Current Focus**
+
+- Product architecture
 - Native Apple development
 - SwiftUI
-- Product architecture
 - User experience
----
-### Political Career Simulator
-A deep political simulation where every decision influences an evolving career spanning campaigns, legislation, media, elections, and public perception.
+- Scalable backend design
 
-**Focus**
-- Complex systems design
-- Long-term architecture
-- Simulation engineering
-- Modern web technologies
 ---
-## 💡 Engineering Philosophy
+
+### Political Career Simulator
+
+A living political simulation where every decision shapes an evolving career through elections, legislation, media, and public opinion.
+
+**Current Focus**
+
+- Systems thinking
+- Complex simulation design
+- Long-term architecture
+- AI-assisted engineering workflow
+
+---
+
+## Engineering Principles
+
 I strive to build software that is:
+
 - Thoughtfully designed
 - Elegant without unnecessary complexity
-- Reliable and thoroughly tested
 - Maintainable for years—not months
-- Focused on solving meaningful problems
-- A pleasure to use
-Technology changes.
-Good engineering doesn't.
----
-## 🌍 What I'm Working On
-- Building production-quality software products
-- Native Apple development with SwiftUI
-- Modern web applications
-- Agentic software engineering workflows
-- Open-source collaboration
-- Continuously improving my craft
----
-## 🛠️ Technologies
+- Thoroughly tested
+- Focused on solving real problems
+- A joy to use
 
-**Languages**
+Technology evolves.
+
+Thoughtful engineering endures.
+
+---
+
+## Current Areas of Focus
+
+- Native Apple Development
+- Modern Web Applications
+- Product Architecture
+- Agentic Software Engineering
+- Open Source Collaboration
+- Continuous Learning
+
+---
+
+## Technologies
+
+### Languages
+
 - Swift
 - TypeScript
 - JavaScript
 
-**Frameworks & Platforms**
+### Frameworks
+
 - SwiftUI
 - React
 - Supabase
 
-**Tools**
+### Tools
+
 - Git
 - GitHub
 - Xcode
 - Visual Studio Code
----
-## 🤝 Open Source
 
-I'm actively expanding my open-source contributions while building software that reflects the same standards I expect from the tools I use every day.
 ---
-> *"Quality is never an accident. It is always the result of thoughtful effort."*
+
+## Open Source
+
+I'm committed to contributing to open source while building production-quality software that reflects the same standards I expect from the tools I use every day.
+
+---
+
+## Beyond the Code
+
+I don't just enjoy writing software.
+
+I enjoy designing systems, refining experiences, simplifying complexity, and building products that stand the test of time.
+
+Software is more than code.
+
+It's craftsmanship.
+```
